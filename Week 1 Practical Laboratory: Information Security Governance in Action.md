@@ -479,3 +479,71 @@ Sarah,
 The Security Steering Committee (SSC) will provide GHC with a structured forum for resolving disagreements that involve security, technology, IT operations, compliance, and business needs. The current disagreement between the CTO and IT Manager over the password policy demonstrates the need for decisions to be made collectively rather than by one department. The SSC will consider both positions objectively, assess the risks, operational impact, technical feasibility, compliance requirements, and business needs, and then agree on a practical risk-based approach. For the password policy, the Committee can consider a balanced solution that combines strong authentication, multi-factor authentication (MFA), and secure password management while avoiding unnecessary password changes that may create user frustration and security weaknesses.
 
 The SSC will maintain strategic alignment by ensuring that security decisions support GHC's business objectives, risk appetite, and growth plans. Each decision will be documented, assigned to a responsible owner, given a clear implementation deadline, and monitored for effectiveness. Matters that exceed the SSC's authority, risk appetite, or have significant financial, regulatory, or reputational impact will be escalated to the CEO and, where necessary, the Board Risk & Audit Committee. This approach will improve accountability and transparency while ensuring that security supports GHC's operations, customer trust, innovation, and future growth.
+
+# Task 5 Governance Maturity Assessment
+
+The Board wants evidence that the new governance arrangements will improve over time. Assess GHC's current maturity using the simplified 1–5 model below and propose a realistic roadmap to achieve at least Level 3 (Defined) across all domains within 12–18 months.
+
+## Current-State Interview Summary
+
+| Governance Domain | Current-State Evidence |
+|------------------|------------------------|
+| Policy & Documentation | Policies are inconsistent, inherited from acquisitions and not always current. |
+| Roles & Responsibilities | Security ownership and accountability are unclear. |
+| Risk Management | The organisation is reactive and lacks a formal proactive assessment process. |
+| Metrics & Reporting | Technical metrics exist, but they are not consistently translated into business impact. |
+| Training & Awareness | Annual training is mandatory, but engagement is low. |
+| Compliance | Preparation is audit-driven rather than continuously monitored. |
+
+## Simplified Maturity Scale
+
+| Level | Description |
+|---------|-------------|
+| 1 – Ad Hoc | Informal, reactive and inconsistent; no defined processes. |
+| 2 – Initial | Some processes exist but are inconsistently documented or applied. |
+| 3 – Defined | Processes are documented, standardised, communicated and supported by clear responsibilities. |
+| 4 – Managed | Processes are measured, monitored and reviewed against performance targets. |
+| 5 – Optimising | Continuous improvement is embedded and processes adapt quickly to changing risk. |
+
+## Required Evidence Task 5
+
+### A completed maturity assessment for Policy & Documentation, Roles & Responsibilities, Risk Management, Metrics & Reporting, Training & Awareness, and Compliance.
+
+| Governance Domain | Current Maturity Level | Current-State Assessment / Evidence | Target – 18 Months |
+|------------------|------------------------|------------------------------------|--------------------|
+| Policy & Documentation | Level 2 - Initial | Policies exist, including some inherited from acquisitions, but they are inconsistent, outdated, and not regularly reviewed. There is no single, standardized policy framework across the organization. | Level 3 - Defined |
+| Roles & Responsibilities | Level 1 - Ad Hoc | Security responsibilities are spread across IT, HR, and Compliance, but ownership and accountability are unclear. There is no clearly defined authority responsible for overall security governance. | Level 3 - Defined |
+| Risk Management | Level 1 - Ad Hoc | Risk management is mainly reactive. Risks are often identified after incidents or near-misses, with no formal risk assessment process or centralized risk register. | Level 3 - Defined |
+| Metrics & Reporting | Level 2 - Initial | Technical and operational security metrics are collected, but they are not consistently converted into business-focused risk information for senior management and the Board. | Level 3 - Defined |
+| Training & Awareness | Level 2 - Initial | Annual security training is mandatory, but employee engagement and completion remain low. Training is not sufficiently targeted to different roles, and its effectiveness is not consistently measured. | Level 3 - Defined |
+| Compliance | Level 2 - Initial | Compliance activities are mainly driven by external audits and periodic reviews rather than continuous monitoring. This can allow compliance gaps to remain undetected between audits. | Level 3 - Defined |
+
+### Maturity Level Definitions
+
+- **Level 1 (Ad Hoc):** Processes are informal, reactive, and undocumented. Success relies on individual effort rather than designed control mechanisms.
+- **Level 2 (Initial):** Basic processes are established, but execution is inconsistent across business units. Reporting focuses on operational outputs rather than strategic outcomes.
+- **Level 3 (Defined):** Processes are standardized, documented, and integrated across the organization. Security governance is aligned with business objectives and regularly reviewed.
+
+### A 12–18 month maturity roadmap containing 3–5 priority initiatives. For each initiative, state the objective, key activities and measurable expected outcome.
+
+| Initiative & Timing | Objective | Key Activities | Measurable Expected Outcome | Maturity Impact |
+|--------------------|-----------|---------------|-----------------------------|----------------|
+| 1. Governance Foundation & Structure (Months 1–3) | Establish clear security governance, accountability, and decision-making authority across GHC. | Approve the Information Security Charter; appoint the Director of Information Security Governance (DISG); establish the Security Steering Committee (SSC); implement and communicate the governance RACI matrix across business units. | 100% of key governance activities have a documented and agreed accountable owner, and the SSC holds its first three meetings as scheduled. | Roles & Responsibilities: Level 1 → Level 3 |
+| 2. Policy Harmonisation & Documentation (Months 2–6) | Establish a consistent, current, and centrally managed security policy framework across GHC and its acquired entities. | Review existing and inherited policies; identify gaps; consolidate policies into a common GHC framework; assign policy owners; introduce version control and annual reviews; communicate approved policies to staff and acquired entities. | 100% of core policies, including access control, data handling, incident response, and acceptable use, are current, approved, centrally documented, and reviewed within the last 12 months. | Policy & Documentation: Level 2 → Level 3 |
+| 3. Formal Risk Management Programme (Months 3–9) | Move GHC from reactive risk management to a proactive and structured approach. | Develop a standard risk assessment methodology; establish a central risk register; assess critical systems, acquired entities, and key third parties; define risk treatment actions; conduct quarterly risk reviews through the SSC. | A central risk register is operational, quarterly reviews are completed, and 100% of high and critical risks have documented owners and treatment plans. | Risk Management: Level 1 → Level 3 |
+| 4. Metrics, Reporting & Continuous Compliance (Months 4–10) | Improve management and Board visibility by converting technical information into business-focused security and compliance reporting. | Define standard security metrics and reporting thresholds; automate data collection where possible; establish a compliance monitoring calendar; monitor key controls regularly; provide quarterly security reports to the Board. | Quarterly Board reports are delivered on schedule for at least two consecutive quarters, while compliance status is monitored monthly rather than only during audits. | Metrics & Reporting: Level 2 → Level 3; Compliance: Level 2 → Level 3 |
+| 5. Security Culture, Training & Awareness (Months 6–15) | Improve employee security awareness and build a stronger security culture across GHC. | Introduce role-based security training; track completion by business unit; conduct quarterly phishing simulations; provide feedback to employees; establish a Security Champions network within business units. | Security training completion reaches and maintains at least 90%, while phishing-simulation click rates show a measurable downward trend over three consecutive quarters. | Training & Awareness: Level 2 → Level 3 |
+
+### Implementation Approach
+
+The initiatives will be monitored by the Security Steering Committee (SSC) and reported to the CEO and Board through the established governance structure. Progress should be reviewed against the agreed objectives, timelines, and measurable outcomes.
+
+Priority should first be given to establishing clear governance ownership and accountability, followed by policy standardisation and formal risk management. Metrics, reporting, compliance monitoring, and security awareness activities can then be strengthened using the governance and risk processes already established.
+
+By the end of the implementation period, GHC should have defined and documented governance processes across all six domains, with clear ownership, regular monitoring, measurable performance indicators, and a structured process for escalating significant risks to senior management and the Board.
+
+### A 1–2 paragraph executive summary to the Board explaining GHC's current maturity and the strategic importance of the roadmap.
+
+GHC’s information security governance maturity is currently between Level 1 (Ad Hoc) and Level 2 (Initial) across the six assessed governance domains. The most significant gaps are in Roles & Responsibilities and Risk Management, where security ownership is unclear and risk management remains largely reactive. Although GHC has policies, security metrics, training, and compliance activities in place, these are not yet consistently managed, standardized, or connected to business decision-making. As GHC continues to grow and expand into new markets, these gaps increase the potential for operational disruption, regulatory issues, financial losses, and damage to customer trust.
+
+The proposed 12–18 month governance maturity roadmap provides a structured approach for moving all six domains to Level 3 (Defined). The roadmap begins with establishing clear governance structures and accountability, followed by policy harmonization, formal risk management, improved security reporting, continuous compliance monitoring, and stronger employee security awareness. This will shift GHC from a reactive approach to a more proactive and business-aligned security function. Board support and approval of the proposed Information Security Charter, governance structure, and initial implementation resources will provide the foundation needed to successfully deliver the roadmap and support GHC’s growth while protecting customer information, maintaining regulatory compliance, and strengthening stakeholder confidence.
