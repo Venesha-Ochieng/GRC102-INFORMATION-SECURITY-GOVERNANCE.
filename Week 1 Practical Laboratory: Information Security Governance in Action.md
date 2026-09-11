@@ -97,7 +97,7 @@ Board of Directors
 | Information Security Charter approval | A | R | C | I | C | I | I | I | I |
 | Risk assessment & treatment (register review) | I | A | C | C | R | C | C | C | C |
 | Incident response planning | I | I | I | C | A | R | C | C | I |
-| Incident response execution (live event) | I* | I* | I | C | A | R | C | I | I |
+| Incident response execution (live event) | I | I | I | C | A | R | C | I | I |
 | Security compliance monitoring | I | I | I | C | A | C | R | C | I |
 | Security awareness & training | I | I | I | I | A | C | C | C | R |
 | Security budget approval | A | C | R | I | C | I | I | I | I |
