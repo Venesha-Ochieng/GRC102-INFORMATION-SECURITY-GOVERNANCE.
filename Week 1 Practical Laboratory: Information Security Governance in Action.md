@@ -348,7 +348,7 @@ The five selected metrics translate complex technical activity into clear, busin
 - Security Training Completion (Human Control): Evaluates the direct impact of workforce investments and human-risk mitigation efforts.
 - Phishing Volume & Malware Detections (Threat Context): Quantifies external attack pressure, providing essential context to determine whether rising incidents stem from weakening defenses or an intensifying threat landscape.
 
-# 8. Task 4 Security Steering Committee
+# Task 4 Security Steering Committee
 
 A dispute has emerged between the CTO and IT Manager regarding a proposed password policy. The CTO believes the policy will create excessive friction; the IT Manager argues that stronger controls are necessary. The CEO wants a formal Security Steering Committee (SSC) to resolve such cross-functional issues.
 
